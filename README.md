@@ -83,6 +83,10 @@ This can be configured in your `book.toml` as follows:
 max-level = 4
 ```
 
+修改成了数字树
+1.
+ 1.1
+
 ## License
 
 MPL. See [LICENSE](LICENSE).  
